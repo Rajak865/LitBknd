@@ -1,0 +1,18 @@
+{
+  "name": "newone",
+  "version": "1.0.0",
+  "description": "aaj date hai 12/02/2024 01:01 AM ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "RajaKumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2"
+  }
+}
